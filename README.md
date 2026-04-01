@@ -1,4 +1,4 @@
-<h1 style = "font-size:3rem;color:blue;font-weight:bold;font-style:italic;"> ***Hi there my name is jesus*** 👋</h1>
+<h1 style = "font-size:3rem;color:blue;font-weight:bold;font-style:italic;">Hi there my name is jesus 👋</h1>
 
 <!--
 **Jesusjes00/Jesusjes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
