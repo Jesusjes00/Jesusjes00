@@ -8,7 +8,7 @@ Soy estudiante de ingeniería en sistemas . Me gusta crear proyectos prácticos,
 
 ### 🔹 Lenguajes
 - C
-- Python  ![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png))
+- Python  ![Python]https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png
 - Java  
 - HTML / CSS  
 
