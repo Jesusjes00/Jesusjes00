@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jesús
 
-Soy estudiante de ingeniería con enfoque en redes, programación y tecnologías modernas. Me gusta crear proyectos prácticos, aprender nuevas herramientas y trabajar con entornos de virtualización y networking.
+Soy estudiante de ingeniería en sistemas . Me gusta crear proyectos prácticos, aprender nuevas herramientas y trabajar con entornos de virtualización y networking.
 
 ---
 
@@ -8,7 +8,7 @@ Soy estudiante de ingeniería con enfoque en redes, programación y tecnologías
 
 ### 🔹 Lenguajes
 - C
-- Python  
+- Python  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Java  
 - HTML / CSS  
 
