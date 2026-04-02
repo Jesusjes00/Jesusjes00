@@ -8,7 +8,7 @@ Soy estudiante de ingeniería en sistemas . Me gusta crear proyectos prácticos,
 
 ### 🔹 Lenguajes
 - C
-- Python  ![Python]https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png
+- Python  ![Python](https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png)
 - Java  
 - HTML / CSS  
 
