@@ -7,10 +7,10 @@ Soy estudiante de ingeniería en sistemas . Me gusta crear proyectos prácticos,
 ## 🛠️ Tecnologías y herramientas
 
 ### 🔹 Lenguajes
-- C
-- Python  ![Python](https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png)
-- Java  
-- HTML / CSS  
+- C ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- Python  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+- HTML / CSS  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🔹 Networking
 - Cisco IOS  
