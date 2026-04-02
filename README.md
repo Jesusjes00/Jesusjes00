@@ -1,16 +1,22 @@
-<h1 style = "font-size:3rem;color:blue;font-weight:bold;font-style:italic;">Hi there my name is jesus 👋</h1>
+# 👋 Hola, soy Jesús
 
-<!--
-**Jesusjes00/Jesusjes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de ingeniería con enfoque en redes, programación y tecnologías modernas. Me gusta crear proyectos prácticos, aprender nuevas herramientas y trabajar con entornos de virtualización y networking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+### 🔹 Lenguajes
+- C
+- Python  
+- Java  
+- HTML / CSS  
+
+### 🔹 Networking
+- Cisco IOS  
+- VLANs, Subnetting, Routing básico  
+
+### 🔹 Herramientas
+- Git & GitHub  
+- Linux  
+- VirtualBox / VMware  
