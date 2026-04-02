@@ -1,4 +1,5 @@
 # 👋 Hola, soy Jesús
+### Estudiante de Ingeniería Cibernética y Sistemas Computacionales 💻⚙️
 
 Me apasiona la combinacion entre el hardware y el software, la resolución de problemas matemáticos mediante algoritmos y la creación de sistemas eficientes. Siempre estoy buscando la forma de optimizar procesos, ya sea en un entorno de desarrollo o en la organización personal.
 ---
