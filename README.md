@@ -1,10 +1,7 @@
 # 👋 Hola, soy Jesús
 
-Soy estudiante de ingeniería en sistemas . Me gusta crear proyectos prácticos, aprender nuevas herramientas y trabajar con entornos de virtualización y networking.
-
+Me apasiona la combinacion entre el hardware y el software, la resolución de problemas matemáticos mediante algoritmos y la creación de sistemas eficientes. Siempre estoy buscando la forma de optimizar procesos, ya sea en un entorno de desarrollo o en la organización personal.
 ---
-
-## 🛠️ Tecnologías y herramientas
 
 ### 🔹 Lenguajes
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -16,7 +13,5 @@ Soy estudiante de ingeniería en sistemas . Me gusta crear proyectos prácticos,
 - Cisco IOS  
 - VLANs, Subnetting, Routing básico  
 
-### 🔹 Herramientas
-- Git & GitHub  
-- Linux  
-- VirtualBox / VMware  
+### 🔹 Herramientas 
+* **Ingeniería y Diseño:** Fusion 360, Modelado 3D
